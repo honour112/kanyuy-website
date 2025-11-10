@@ -39,14 +39,14 @@ export const SERVICES: Service[] = [
 ];
 
 export const TEAM_MEMBERS: TeamMember[] = [
-    { name: 'Daniel Oni', role: 'AI Video Editor', bio: 'Creating compelling visual narratives with cutting-edge AI tools.', imageUrl: 'https://picsum.photos/seed/daniel/400/400', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
-    { name: 'Asonganyi Rodric', role: 'DevOps Engineer', bio: 'Ensuring seamless, scalable, and secure infrastructure for all our projects.', imageUrl: 'https://picsum.photos/seed/rodric/400/400', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
-    { name: 'Aboubakar Abdourazak', role: 'AI Website Developer', bio: 'Building intelligent and responsive websites that drive results.', imageUrl: 'https://picsum.photos/seed/aboubakar/400/400', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
-    { name: 'Amadi Dominic', role: 'DevOps / Cloud Engineer', bio: 'Architecting robust cloud solutions for maximum performance.', imageUrl: 'https://picsum.photos/seed/amadi/400/400', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
-    { name: 'Peter Michael', role: 'Video Editor', bio: 'Crafting high-quality video content that engages and converts.', imageUrl: 'https://picsum.photos/seed/peter/400/400', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
-    { name: 'Adebayo Mary', role: 'Graphic Designer', bio: 'Designing stunning visuals that define and elevate brands.', imageUrl: 'https://picsum.photos/seed/mary/400/400', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
-    { name: 'Abdulsamad Ishaq', role: 'Frontend Developer', bio: 'Bringing designs to life with clean, efficient, and interactive code.', imageUrl: 'https://picsum.photos/seed/ishaq/400/400', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
-    { name: 'Nkwambi Honour', role: 'Website Developer', bio: 'Developing functional and user-friendly websites from the ground up.', imageUrl: 'https://picsum.photos/seed/honour/400/400', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
+    { name: 'Daniel Oni', role: 'AI Video Editor', bio: 'Creating compelling visual narratives with cutting-edge AI tools.', imageUrl: '/Assets/Daniel.jpg', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
+    { name: 'Asonganyi Rodric', role: 'DevOps Engineer', bio: 'Ensuring seamless, scalable, and secure infrastructure for all our projects.', imageUrl: '/Assets/Asonganyi.jpg', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
+    { name: 'Aboubakar Abdourazak', role: 'AI Website Developer', bio: 'Building intelligent and responsive websites that drive results.', imageUrl: '/Assets/abubakar.jpg', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
+    { name: 'Amadi Dominic', role: 'DevOps / Cloud Engineer', bio: 'Architecting robust cloud solutions for maximum performance.', imageUrl: '/Assets/dominic.jpg', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
+    { name: 'Peter Michael', role: 'Video Editor', bio: 'Crafting high-quality video content that engages and converts.', imageUrl: '/Assets/peterMICHAEL.jpg', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
+    { name: 'Adebayo Mary', role: 'Graphic Designer', bio: 'Designing stunning visuals that define and elevate brands.', imageUrl: '/Assets/ADEbayo.jpg', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
+    { name: 'Abdulsamad Ishaq', role: 'Frontend Developer', bio: 'Bringing designs to life with clean, efficient, and interactive code.', imageUrl: '/Assets/abdulshamaq.jpg', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
+    { name: 'Nkwambi Honour', role: 'Website Developer', bio: 'Developing functional and user-friendly websites from the ground up.', imageUrl: '/Assets/Nkwambi.jpg', linkedin: '#', whatsapp: 'https://wa.me/237674772569' },
 ];
 
 export const TESTIMONIALS: Testimonial[] = [

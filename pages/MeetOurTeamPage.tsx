@@ -10,7 +10,7 @@ const MeetOurTeamPage = () => {
       <PageHero
         title="Meet Our Team"
         subtitle="The creative minds and strategic thinkers behind your brand's success."
-        imageUrl="https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1920&auto=format&fit=crop"
+        imageUrl="https://www.foodbusinessnews.net/ext/resources/2020/11/BlackOwnedBusinessMeeting_Lead.jpg?height=667&t=1606316879&width=1080"
       />
       <section className="py-20 bg-light-gray">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">

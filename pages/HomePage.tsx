@@ -32,7 +32,7 @@ const HomePage = () => {
   return (
     <div>
       {/* Hero Section */}
-      <section className="relative h-screen flex items-center justify-center text-white text-center" style={{backgroundImage: "url('https://images.unsplash.com/photo-1531973576160-7125cd663d86?q=80&w=1920&auto=format&fit=crop')", backgroundSize: 'cover', backgroundPosition: 'center'}}>
+      <section className="relative h-screen flex items-center justify-center text-white text-center" style={{backgroundImage: "url('https://www.foodbusinessnews.net/ext/resources/2020/11/BlackOwnedBusinessMeeting_Lead.jpg?height=667&t=1606316879&width=1080')", backgroundSize: 'cover', backgroundPosition: 'center'}}>
         <div className="absolute inset-0 bg-gradient-to-b from-primary/80 to-primary-dark/80"></div>
         <div className="relative z-10 px-4">
             <AnimatedSection>

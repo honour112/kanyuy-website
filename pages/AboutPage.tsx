@@ -19,14 +19,14 @@ const AboutPage = () => {
       <PageHero 
         title="About Us"
         subtitle="The Story, Mission, and Vision Behind Our Agency"
-        imageUrl="https://images.unsplash.com/photo-1522071820081-009f0129c7da?q=80&w=1920&auto=format&fit=crop"
+        imageUrl="https://img.freepik.com/premium-photo/team-young-african-people-office-working-laptop_484651-18740.jpg?w=2000"
       />
 
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <AnimatedSection>
-              <img src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=800&auto=format&fit=crop" alt="Our Team in a meeting" className="rounded-lg shadow-xl" loading="lazy" />
+              <img src="https://img.freepik.com/premium-photo/business-team-collaborating-marketing-strategy-round-table-meeting-with-analytics-charts_1143370-6246.jpg" alt="Our Team in a meeting" className="rounded-lg shadow-xl" loading="lazy" />
             </AnimatedSection>
             <AnimatedSection delay="delay-300">
               <h2 className="text-3xl font-bold text-primary">Our Story & Mission</h2>
